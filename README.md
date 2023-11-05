@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Malinhara
   
-<!---
-Malinhara/Malinhara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Second Year undergrad 🎓 2026
+19 y.o
+yes, I'm a guy..
