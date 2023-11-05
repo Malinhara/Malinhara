@@ -53,17 +53,7 @@ Like My Work?
 ![Malinhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malinhara&show_icons=true&bg_color=00000000)
 
 
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	   
-	   
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
-	</ul>
-</details>
+
 
 #
 
