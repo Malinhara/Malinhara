@@ -20,7 +20,7 @@ Since then I pushed **2858**+ commits, opened **229**+ issues, submitted **313**
 
 Like My Work?
 
-!(https://github-readme-stats.vercel.app/api?username=Malinharaa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Malinhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malinhara&show_icons=true&theme=transparent)
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
