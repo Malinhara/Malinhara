@@ -50,11 +50,10 @@ Like My Work?
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
+  <p>⚡ Github Stats</p>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malinhara&layout=compact) <br><br>
-![Malinhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malinhara&show_icons=true&bg_color=00000000)
+  ![Malinhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malinhara&show_icons=true&bg_color=00000000)
+  
 </details>
 
 
