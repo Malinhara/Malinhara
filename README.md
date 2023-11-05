@@ -1,12 +1,7 @@
 ## Hey there 👋, I'm [Poorna Malinhara!](https://github.com/Malinhara/Malinhara)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
-
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+I am a Full Stack Developer. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 
@@ -14,13 +9,13 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **5** years ago.
+Joined Github **2** years ago.
 
 Since then I pushed **2858**+ commits, opened **229**+ issues, submitted **313**+ pull requests, created **20**+ gists and contributed to **11**+ public repositories.
 
 Like My Work?
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malinhara&layout=compact) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malinhara&layout=compact) <be><br>
 ![Malinhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malinhara&show_icons=true&bg_color=00000000)
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
@@ -29,11 +24,10 @@ Like My Work?
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+- 🛠 &nbsp; I’m currently studying at NiBM.
+- 🚀 &nbsp; I’m currently exploring React, Spring Boot and js.
+
+
 
 ### My Absolute Favorites:
 
