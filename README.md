@@ -15,8 +15,7 @@ Since then I pushed **2858**+ commits, opened **229**+ issues, submitted **313**
 
 Like My Work?
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malinhara&layout=compact) <be><br>
-![Malinhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malinhara&show_icons=true&bg_color=00000000)
+
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
