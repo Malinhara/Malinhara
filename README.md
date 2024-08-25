@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [Poorna Malinhara!](https://github.com/Malinhara/Malinhara)
 
-Contact- +94 701553732
+Contact- +94 701553732 <br>
 Email- kuruppuarachchi.poorna@gmail.com
 
 I am an Undergraduate Software Engineer. 🚀
