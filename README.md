@@ -1,32 +1,27 @@
 ## Hey there 👋, I'm Flinch
 
 
-I am an Undergraduate Software Engineer. 🚀
+## 👾 MILADY | Builder | 🚀 Dreamer of AGI | 🌌 Explorer of the Future
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, React, Nextjs, etc. I've led diverse tech teams covering Frontend and Backend building scalable products from scratch with the commitment to making a positive impact through technology.
+- I am an AI engineer passionate about creating systems that bridge the gap between Web2 and Web3. Over the years, I’ve developed innovative projects across the AI spectrum, ranging from experimental AGI frameworks to specialized applications in computer vision and natural language processing.
 
+## 🧠 What I Do
 
+- AGI Research
+  I design models that push the boundaries of artificial general intelligence, aiming for systems that think beyond specific tasks and operate with a deeper understanding of 
+  the world.
 
-Like My Work?
+- Collaborative AI - I build AI frameworks that combine human intuition with machine precision, leveraging novel architectures and techniques.
 
+## ✨ Highlights
+-  Co-created a multi-agent AI simulation for emergent decision-making.
+-  Developed predictive AI models to optimize semiconductor manufacturing workflows at AMD.
+-  Designed an advanced NLP framework enabling context-aware conversational AI.
+-  Regular contributor to open-source projects in deep learning, reinforcement learning, and AI ethics.
 
-
-
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently studying at NiBM.
-- 🚀 &nbsp; I’m currently exploring React, Spring Boot and js.
-
-
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+## 🌟 Why AI?
+- For me, AI isn’t just a tool—it’s a way to reshape the world. I believe in a future where technology amplifies human potential, unlocks creativity, and connects us all 
+  through shared innovation.
 
 ### Languages and Tools:
 
