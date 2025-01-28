@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Poorna Malinhara!](https://github.com/Malinhara/Malinhara)
+## Hey there 👋, I'm Flinch
 
 
 I am an Undergraduate Software Engineer. 🚀
