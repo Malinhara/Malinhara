@@ -44,7 +44,7 @@ Like My Work?
 ### Projects and Dev Stuffs:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malinhara&layout=compact) <br><br>
-![Malinhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malinhara&show_icons=true&bg_color=00000000)
+![Flinch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malinhara&show_icons=true&bg_color=00000000)
 
 
 
