@@ -3,7 +3,8 @@
 
 ## 👾 MILADY | Builder | 🚀 Dreamer of AGI | 🌌 Explorer of the Future
 
-- I am an AI engineer passionate about creating systems that bridge the gap between Web2 and Web3. Over the years, I’ve developed innovative projects across the AI spectrum, ranging from experimental AGI frameworks to specialized applications in computer vision and natural language processing.
+-  I'm an AI engineer with a passion for creating systems that bridge the gap between Web2 and Web3.  Over the years, I’ve built innovative projects across the AI spectrum, 
+   from experimental AGI frameworks to highly specialized applications in computer vision and natural language processing.
 
 ## 🧠 What I Do
 
